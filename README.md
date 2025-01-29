@@ -1,6 +1,7 @@
 IP2 Project
-Group Member
+Group Member<br />
+
 One
-Mikiyas Toru
-Three
+Mikiyas Toru<br />
+Bealu Girma
 Four
